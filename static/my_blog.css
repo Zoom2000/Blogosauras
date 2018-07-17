@@ -1,0 +1,7 @@
+body {
+  background-image: '/static/nyc.jpeg'
+}
+h1 {
+  color: red;
+  position: relative;
+}
